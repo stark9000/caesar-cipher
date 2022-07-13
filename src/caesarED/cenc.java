@@ -5,8 +5,6 @@
  */
 package caesarED;
 
-import java.util.Arrays;
-
 /**
  *
  * @author saliya
